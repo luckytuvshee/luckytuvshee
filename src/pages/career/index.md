@@ -3,7 +3,7 @@ templateKey: TemplateBasic
 title: Tuvshinsanaa Tuul
 ---
 
-_Ambitious, passionate software engineer. — I can build highly performant website and deploy to the cloud using AWS._
+_Ambitious, passionate software engineer. — I can build highly performant website and deploy to the cloud using AWS and Docker._
 
 **luckytuvshee99@gmail.com**
 
@@ -50,5 +50,7 @@ Worked with AngularJS and REST API
 
 ## Personal Projects
 
-- [ecommerce website](https://shop.luckytuvshee.me): This is one of my university project. I used ReactJS + MaterialUI and PHP Laravel framework
-- [album creator](https://editor.luckytuvshee.me): Similar to [Canva.com](https://canva.com) where user can add text, shape, image on slide or can use predefined template.
+- [ecommerce website](https://shop.luckytuvshee.me): This is one of my university project. I used ReactJS + Material UI and PHP Laravel framework. See [Admin dashboard](https://shop-api.luckytuvshee.me)
+- [photo album creator](https://editor.luckytuvshee.me): Similar to [Canva.com](https://canva.com) where user can add text, shape, image on slide or can use predefined template.
+
+#### Design by Juliette
