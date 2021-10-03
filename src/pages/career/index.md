@@ -68,4 +68,4 @@ Worked with AngularJS and REST API
 - [ecommerce website](https://shop.luckytuvshee.me): This is one of my university project. I used ReactJS + Material UI and PHP Laravel framework. See [Admin dashboard](https://shop-api.luckytuvshee.me)
 - [shopping cart, product CRUD](https://ecommerce.luckytuvshee.me): Image is served from AWS S3. I used ExpressJS + ReactJS. Admin email is **admin@yahoo.com**
 
-#### Design by Juliette
+#### Design by <a href="https://github.com/juliettepretot" target="_blank">Juliette</a>
