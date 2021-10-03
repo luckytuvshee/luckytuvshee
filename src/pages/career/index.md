@@ -54,7 +54,7 @@ Worked with AngularJS and REST API
 
 ## Education
 
-- Information Systems at Mongolian University of Science and Technology, 2017 - present, GPA 3.3 out of 4.0
+- Information Systems at Mongolian University of Science and Technology, 2017 - 2021, GPA 3.3 out of 4.0
 
 ## Freelancing Client's Public Projects
 
