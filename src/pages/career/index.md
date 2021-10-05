@@ -61,6 +61,7 @@ Worked with AngularJS and REST API
 - <a href="https://veganmanna.org" target="_blank">TheVeganManna</a>: Fully functional Vegan Recipe Sharing website with Admin Dashboard
 - <a href="https://stacksai.org" target="_blank">StacksAi</a>: Stacks AI Landing Page
 - <a href="https://joinsidekick.com" target="_blank">Sidekick</a>: House Renting Web app
+- <a href="https://elegant-morse-884c0d.netlify.app/" target="_blank">NFT Landing Page</a>: NFT Landing Page Clone
 
 ## Personal Projects
 
