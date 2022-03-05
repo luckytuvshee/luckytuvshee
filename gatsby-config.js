@@ -3,6 +3,7 @@ module.exports = {
     title: 'Tuvshinsanaa Tuul',
     siteUrl: 'https://luckytuvshee.me',
   },
+  pathPrefix: '/luckytuvshee',
   plugins: [
     'gatsby-plugin-preact',
     'gatsby-plugin-typescript',
